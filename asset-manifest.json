@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/suirrelBD/static/css/main.ee696910.css",
+    "main.js": "/suirrelBD/static/js/main.a1fa08c9.js",
+    "static/js/453.c5eaf93b.chunk.js": "/suirrelBD/static/js/453.c5eaf93b.chunk.js",
+    "static/media/Yeongdeok Sea.ttf": "/suirrelBD/static/media/Yeongdeok Sea.e3ab0f4cef8e292ae922.ttf",
+    "static/media/대럼지-보너스3.png": "/suirrelBD/static/media/대럼지-보너스3.2bba4b3a73857174a7af.png",
+    "static/media/대럼지-보너스2.png": "/suirrelBD/static/media/대럼지-보너스2.70133a738f74bbeb2647.png",
+    "static/media/대럼지-보너스.png": "/suirrelBD/static/media/대럼지-보너스.60d33c78780caa94a6df.png",
+    "static/media/대럼지-당첨.png": "/suirrelBD/static/media/대럼지-당첨.23d130de839ed36570f4.png",
+    "static/media/대럼지-꽝.png": "/suirrelBD/static/media/대럼지-꽝.3b02e214f416ae87cd1a.png",
+    "static/media/제목.png": "/suirrelBD/static/media/제목.44e05214eeb48d40b82c.png",
+    "index.html": "/suirrelBD/index.html",
+    "main.ee696910.css.map": "/suirrelBD/static/css/main.ee696910.css.map",
+    "main.a1fa08c9.js.map": "/suirrelBD/static/js/main.a1fa08c9.js.map",
+    "453.c5eaf93b.chunk.js.map": "/suirrelBD/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee696910.css",
+    "static/js/main.a1fa08c9.js"
+  ]
+}
